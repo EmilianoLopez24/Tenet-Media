@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Helvetica;
+  src: url(../Assets/fonts/Helvetica.ttf);
+}
+
+* {
+  font-family: Helvetica;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.landing-page {
+  font-size: 60px;
+}
